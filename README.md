@@ -27,24 +27,30 @@ A detailed report summarizing the methodology, findings, and conclusions drawn f
 
 This project demonstrates the following skills:
 
-Data Wrangling:Cleaning and preprocessing raw datasets for analysis.
+#### Data Wrangling:
+Cleaning and preprocessing raw datasets for analysis.
 Handling missing data and transforming variables.
-Statistical Analysis:
+
+#### Statistical Analysis:
 Linear regression and ANOVA testing for hypothesis validation.
 Correlation analysis with multiple comparisons adjustment.
-Visualization:
+
+#### Visualization:
 Creating informative visualizations using ggplot2 and Plotly.
 Using clustering visualizations to interpret groupings.
-Predictive Modeling:
+
+#### Predictive Modeling:
 Building and interpreting linear regression models.
 Implementing Random Forest classification models for predictions.
 Clustering:
 Using the Elbow Method to identify optimal clusters.
 Performing K-Means clustering on crime data.
 Programming in R:
+
 Writing efficient R scripts for analytical workflows.
 Leveraging libraries such as dplyr, ggplot2, caret, and factoextra.
-Results
+
+#### Results
 Key Findings
 Trends: Significant changes in crime types over time and across regions.
 Correlations: Strong relationships between specific crime categories and time.
