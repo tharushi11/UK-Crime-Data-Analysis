@@ -27,8 +27,7 @@ A detailed report summarizing the methodology, findings, and conclusions drawn f
 
 This project demonstrates the following skills:
 
-Data Wrangling:
-Cleaning and preprocessing raw datasets for analysis.
+Data Wrangling:Cleaning and preprocessing raw datasets for analysis.
 Handling missing data and transforming variables.
 Statistical Analysis:
 Linear regression and ANOVA testing for hypothesis validation.
