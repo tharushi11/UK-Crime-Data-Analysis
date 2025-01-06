@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository contains my first project using R, where I analyzed and visualized crime data from the United Kingdom for the years 2014 to 2016. The goal of this project was to explore trends and patterns in crime, assess correlations and relationships, and build predictive models to gain actionable insights into crime data. The analysis spans across different crime categories and regions, leveraging both descriptive and predictive analytics.
+This repository contains the analysis and visualization of crime data from the United Kingdom, covering the years 2014 to 2016. The analysis explores patterns, trends, and factors influencing crime outcomes across various regions and crime categories, using both descriptive and predictive analytical methods.
 
 ## Contents
 
