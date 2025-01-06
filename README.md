@@ -1,5 +1,6 @@
-UK Crime Data Analysis (2014-2016)
-Project Overview
+#UK Crime Data Analysis (2014-2016)
+
+##Project Overview
 This repository contains my first project using R, where I analyzed and visualized crime data from the United Kingdom for the years 2014 to 2016. The goal of this project was to explore trends and patterns in crime, assess correlations and relationships, and build predictive models to gain actionable insights into crime data. The analysis spans across different crime categories and regions, leveraging both descriptive and predictive analytics.
 
 Contents
